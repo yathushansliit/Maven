@@ -4,4 +4,13 @@
   <artifactId>firstMaven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>firstMaven</name>
+  
+  <dependencies>
+  <dependency>
+  <groupId>com.learning</groupId>
+  <artifactId>HelloWorld</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  </dependency>
+  
+  </dependencies>
 </project>

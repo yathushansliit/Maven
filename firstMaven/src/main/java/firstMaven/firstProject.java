@@ -1,9 +1,13 @@
 package firstMaven;
 
+import HelloWorld.HelloWorld;
+
+
 public class firstProject {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		HelloWorld hello = new HelloWorld();
+		hello.print();
 
 	}
 
